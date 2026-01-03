@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Développeur Web et Web mobile",
+    duration: "Sep 2024 - Présent",
+    institution: "Alaji, Charville",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Systèmes d'information",
+    duration: "Jul 2018 - Aug 2021",
+    institution: "Université de Kaboul, Kaboul",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Baccalauréat Général",
+    duration: "Mar 2005 - Dec 2017",
+    institution: "Lycée Imam Ali, Ghazni",
   }
 ]
